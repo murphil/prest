@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM ubuntu:focal
 
 ENV prest_version=1.0.1
 RUN set -eux \
